@@ -1,0 +1,22 @@
+.image-box.{
+    postion:relative;
+    width: 400px;
+    height: auto;
+}
+
+.image-box. img{
+    width: 100%;
+    height: auto;
+    display: block;
+    border-radius: 10px;
+}
+
+overlay {
+    postion: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgb(0, 0, 0,0,4);
+    border-radius: 10px;
+}
